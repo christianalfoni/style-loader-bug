@@ -9,6 +9,6 @@ The setup uses node to launch a webpack-dev-server instance and proxying request
 3. Go to `localhost:3000`
 4. The background color should be red
 5. If it is white, do a file change in `app/main.js`, just a lineshift, save and refresh... it works
-6. If it is read, please restart server until the problem occurs
+6. If it is red, please restart server until the problem occurs
 
 When increasing number of chunks you will also start to get random errors in those chunks.
